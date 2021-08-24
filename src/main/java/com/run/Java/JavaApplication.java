@@ -10,6 +10,7 @@ public class JavaApplication {
 		SpringApplication.run(JavaApplication.class, args);
 		
 		System.out.println(" ***** Hello -->> UniLever ***** ");
+		System.out.print("Hi M Printing Logs");
 		
 	}
 
