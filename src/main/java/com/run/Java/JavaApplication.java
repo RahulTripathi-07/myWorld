@@ -11,6 +11,8 @@ public class JavaApplication {
 		
 		System.out.println(" ***** Hello -->> UniLever ***** ");
 		System.out.print("Hi M Printing Logs");
+		int a= 5/2;
+		System.out.println("Sum :: "+a);
 		
 	}
 
