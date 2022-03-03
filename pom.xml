@@ -14,7 +14,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Java</name>
 	<description>Demo project for Spring Boot</description>
-
+<properties>
+		<java.version>11</java.version>
+		<sonar.projectKey>MyJavaAppPoc</sonar.projectKey>
+		<sonar.host.url>https://sonar.unilever.com</sonar.host.url>
+	</properties>
 
 	<dependencies>
 		<dependency>
